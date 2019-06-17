@@ -9,8 +9,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class GmailHomePage extends GeneralPage {
-    private static final Logger LOG = LogManager.getLogger(GmailHomePage.class);
-
     @FindBy(id="com.google.android.gm:id/compose_button")
     private WebElement composeButton;
 
