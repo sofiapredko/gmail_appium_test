@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60568c2-760e-4765-a725-d55fae87f1c2" name="Default Changelist" comment="" />
+    <list default="true" id="b60568c2-760e-4765-a725-d55fae87f1c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1227f4f3-4370-4f7d-a480-a55dd782dc51-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/16809884-f417-4a35-8af7-005471485b77-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/27d5e927-d5df-4418-bc5a-2c6347298928-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2a67fbc2-95fa-4353-804b-f61ce33ef627-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2b2b5e6b-171e-4e55-bda6-dda84831af14-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/31de567b-dfd5-4e8d-a425-d4ec9d8b8cac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/496a1e64-ac54-44df-bdbb-8fc44f6e16aa-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5c2c8d05-e975-4d52-a8ae-fcd7c8866a9d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7e41b78e-8cf0-475b-b5d2-9bdfa01fd0e6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/88425607-7962-4b6f-b284-b13e336bdd99-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8a7f8bad-38a9-42e3-9597-c50d38a13ac4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8b0e3d27-94cd-40b3-b205-1ccdf9c1d91c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/951c3fb5-6f7d-4590-abf7-b4fa1fe0c5ac-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/968a215a-6fb6-4042-896a-eacbd7122db0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/97fc862b-90db-4f5e-ad26-246aea7e11b8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a12f450f-f37a-4e9b-9dad-d5b7d8998bd3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a2470569-0726-4e62-a15b-712ee846d96d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a53c2423-b5df-4516-a62c-23c424bba243-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ab9cef00-5e19-4e04-bd7a-bac3dfc1daf4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d0030048-b1ab-43dd-a4d4-406a560c1b7a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d4691c0d-0bf0-44d5-9f30-3a880fda4d51-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d57ca99c-dd69-4956-adf4-3c27524c53ec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ebfcdcc1-cbec-412e-bc46-b816fcd8578b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ec7702a6-95d4-4951-8096-529f23875484-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ee709598-7859-46ab-8ca3-ddf2dcab0ba5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f0c64806-6c3b-461f-8577-c659b337ee2b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f2590da6-aecf-44c0-a8cc-3770e11c2910-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f7099fde-c402-4a9b-b52c-c580547c4b83-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fecaeeb2-4847-40b9-93e3-cce849b6e1c7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/HomePageBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/HomePageBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sofia/bussinesslayer/WelcomePageBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sofia/bussinesslayer/WelcomePageBO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sofia/pageobj/gmailpages/GmailHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sofia/pageobj/gmailpages/GmailHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sofia/utils/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sofia/utils/DriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sofia/GmailSendEmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sofia/GmailSendEmailTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/GeneralPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,14 +65,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="464">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#581#582#0" expanded="true" />
                 <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
                 <element signature="e#798#799#0" expanded="true" />
                 <element signature="e#826#827#0" expanded="true" />
               </folding>
@@ -45,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/utils/DriverManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-422">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="105">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailWelcomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="83" />
+            <state relative-caret-position="85">
+              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="100" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#634#635#0" expanded="true" />
@@ -71,10 +107,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/WelcomePageBO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="238">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/HomePageBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1189#1190#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#858#859#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#1419#1420#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,18 +157,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/sofia/DriverManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.yaml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/GeneralPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/WelcomePageBO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailWelcomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sofia/utils/DriverManager.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/HomePageBO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java" />
       </list>
     </option>
   </component>
@@ -117,6 +190,7 @@
     <option name="width" value="1939" />
     <option name="height" value="1060" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -231,7 +305,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560787124022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560788929544" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -299,7 +374,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560778273786</updated>
-      <workItem from="1560778281127" duration="6586000" />
+      <workItem from="1560778281127" duration="8413000" />
     </task>
     <servers />
   </component>
@@ -319,9 +394,12 @@
     <history-entry file="GmailSendEmailTest - 2019.06.17 at 18h 54m 06s.xml">
       <configuration name="GmailSendEmailTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GmailSendEmailTest - 2019.06.17 at 19h 16m 06s.xml">
+      <configuration name="GmailSendEmailTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6586000" />
+    <option name="totallyTimeSpent" value="8413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -332,11 +410,11 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.46153846" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -345,7 +423,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34042552" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35679215" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,16 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1651">
@@ -396,30 +464,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/WelcomePageBO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/GeneralPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/GeneralPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/utils/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailWelcomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="83" />
+        <state relative-caret-position="85">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="100" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#634#635#0" expanded="true" />
@@ -428,10 +503,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/utils/DriverManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/WelcomePageBO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/pageobj/gmailpages/GmailHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sofia/bussinesslayer/HomePageBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -440,14 +543,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sofia/GmailSendEmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="464">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#581#582#0" expanded="true" />
             <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
             <element signature="e#798#799#0" expanded="true" />
             <element signature="e#826#827#0" expanded="true" />
           </folding>
