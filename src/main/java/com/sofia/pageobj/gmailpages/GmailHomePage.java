@@ -3,6 +3,7 @@ package com.sofia.pageobj.gmailpages;
 import com.sofia.pageobj.GeneralPage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.support.*;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -25,7 +26,7 @@ public class GmailHomePage extends GeneralPage {
     private WebElement sendEmailButton;
 
     public void clickComposeButton() {
-        (new WebDriverWait(driver, 45)).until(ExpectedConditions.elementToBeClickable(composeButton));
+        (new WebDriverWait(driver, 15)).until(ExpectedConditions.elementToBeClickable(composeButton));
         composeButton.click();
     }
 
@@ -38,11 +39,21 @@ public class GmailHomePage extends GeneralPage {
     }
 
     public void fillSubjectField(String subject) {
+        (new WebDriverWait(driver, 15)).until(ExpectedConditions.elementToBeClickable(fieldSubject));
+        fieldSubject.click();
         fieldSubject.sendKeys(subject);
     }
 
     public void fillEmailText(String emailText) {
         emailTextField.sendKeys(emailText);
+    }
+
+    public String getReceiverValue() {
+        return fieldTo.getText();
+    }
+
+    public String getSubjectValue() {
+        return fieldSubject.getText();
     }
 
 }

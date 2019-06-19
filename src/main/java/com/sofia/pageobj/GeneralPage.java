@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public abstract class GeneralPage {
     protected WebDriver driver;
-    private WebDriverWait webDriverWait;
+    protected WebDriverWait webDriverWait;
 
     public GeneralPage() {
         driver = DriverManager.getDriver();

@@ -13,10 +13,17 @@ import java.net.URL;
 import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
+import static com.sofia.utils.Property.getProperty;
+
 public class DriverManager {
     private static final Logger LOG = LogManager.getLogger(DriverManager.class);
     private static AndroidDriver<WebElement> driver;
     private static URL url;
+    private static final String PLATFORM = getProperty("platform");
+    private static final String DEVICE = getProperty("device");
+    private static final String APP_PACK = getProperty("app_pack");
+    private static final String APP_ACTIVITY = getProperty("app_activity");
+
 
     private DriverManager() {
     }
@@ -40,15 +47,15 @@ public class DriverManager {
     private static void setUpSettings() {
         LOG.info("Setting up driver");
         driver = new AndroidDriver(url, setCapabilities());
-        driver.manage().timeouts().implicitlyWait(250, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
     }
 
     private static DesiredCapabilities setCapabilities() {
         DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
-        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "69adc89e7d94");
-        capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "com.google.android.gm");
-        capabilities.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, "com.google.android.gm.ConversationListActivityGmail");
+        capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, PLATFORM);
+        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, DEVICE);
+        capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, APP_PACK);
+        capabilities.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, APP_ACTIVITY);
         return capabilities;
     }
 

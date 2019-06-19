@@ -3,16 +3,15 @@ package com.sofia.bussinesslayer;
 import com.sofia.pageobj.gmailpages.GmailHomePage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePageBO {
     private static final Logger LOG = LogManager.getLogger(WelcomePageBO.class);
     private GmailHomePage homePage = new GmailHomePage();
 
-    public void fillReceiverInfo(String receiver) {
+    public String fillReceiverInfo(String receiver) {
         LOG.info("Filling receiver email");
         homePage.fillToField(receiver);
+        return homePage.getReceiverValue();
     }
 
     public void fillSubjectInfo(String subject) {
@@ -26,12 +25,17 @@ public class HomePageBO {
     }
 
     public void createEmail(){
-        LOG.info("Starting to compose email");
+        LOG.info("Pressing compose button");
         homePage.clickComposeButton();
+        LOG.info("Starting to compose email");
     }
 
     public void sendEmail(){
         LOG.info("Sending email");
         homePage.clickSendButton();
+    }
+
+    public String getSubjectValue() {
+        return homePage.getSubjectValue();
     }
 }

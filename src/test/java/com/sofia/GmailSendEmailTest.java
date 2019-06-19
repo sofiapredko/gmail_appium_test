@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 
 import static com.sofia.utils.DriverManager.getDriver;
 import static com.sofia.utils.DriverManager.quitDriver;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class GmailSendEmailTest {
     private static final Logger LOG = LogManager.getLogger(GmailSendEmailTest.class);
@@ -17,7 +18,7 @@ public class GmailSendEmailTest {
     private HomePageBO homePage = new HomePageBO();
     private static final String RECEIVER = "vmuka1998@gmail.com";
     private static final String SUBJECT = "TA Test Letter";
-    private static final String EMAIL_TEXT = "TA Test Letter";
+    private static final String EMAIL_TEXT = "HELLLLOOOO";
 
     @BeforeMethod
     public void setUp() {
@@ -28,8 +29,9 @@ public class GmailSendEmailTest {
     public void testWelcome() {
         welcomePage.skipWelcomePage();
         homePage.createEmail();
-        homePage.fillReceiverInfo(RECEIVER);
+        assertEquals(homePage.fillReceiverInfo(RECEIVER), RECEIVER);
         homePage.fillSubjectInfo(SUBJECT);
+        //assertEquals(homePage.getSubjectValue(), SUBJECT);
         homePage.typeEmailText(EMAIL_TEXT);
         homePage.sendEmail();
     }
